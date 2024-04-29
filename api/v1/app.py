@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module contains the principal application
+This module contains the main application
 """
 from models import storage
 from api.v1.views import app_views
