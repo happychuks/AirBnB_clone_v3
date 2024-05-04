@@ -188,7 +188,7 @@ Airbnb_clone_v2
 - Happy Felix Chukwuma - [Github](https://github.com/happychuks) / [Twitter](https://twitter.com/Chukwuma__Happy)
 - Temitope Alao - [Github](https://github.com/temmydhayor)
 
-AirBnb_clone
+AirBnb_clone-v1
 
 - Happy Felix Chukwuma - [Github](https://github.com/happychuks) / [Twitter](https://twitter.com/Chukwuma__Happy)
 - Adioz Daniel - [Github](https://github.com/adiozdaniel)
